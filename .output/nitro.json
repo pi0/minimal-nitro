@@ -1,0 +1,17 @@
+{
+  "date": "2026-04-22T15:59:55.858Z",
+  "preset": "standard",
+  "framework": {
+    "name": "nitro",
+    "version": "3.0.260415-beta"
+  },
+  "versions": {
+    "nitro": "3.0.260415-beta"
+  },
+  "serverEntry": "server/index.mjs",
+  "publicDir": "public",
+  "commands": {
+    "preview": "npx srvx --prod ./"
+  },
+  "config": {}
+}
