@@ -1,0 +1,12 @@
+{
+  "name": "nitro-starter",
+  "type": "module",
+  "scripts": {
+    "build": "nitro build",
+    "dev": "nitro dev",
+    "preview": "nitro preview"
+  },
+  "devDependencies": {
+    "nitro": "latest"
+  }
+}
